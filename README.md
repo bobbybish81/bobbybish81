@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Bish!
 - 👀 I’m interested in movies, football, motorsport and programming!
-- 🌱 I’m embarking on the Fullstack JavaScript Career Program with Salt.
+- 🌱 I’m embarking on the Fullstack JavaScript Career Program with Salt (School of applied technology).
 - 💞️ I’m looking to collaborate on any JavaScript projects.
 - 📫 My contact email is bobbybish81@hotmail.com
 
