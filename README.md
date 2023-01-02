@@ -1,6 +1,11 @@
+  <h1 align="center">
+    Welcome to my Github!
+  </h1>
+  <br>
 <div id="header" align="center">
   <img src="https://media.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif" width="100"/>
 </div>
+<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/robert-bish-1a6a8637">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,9 +20,7 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=bobbybish81&style=flat-square&color=blue" alt=""/>
 </div>
-  <h1 align="center">
-    Welcome to my Github!
-  </h1>
+  <br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="350"/>
 </div>
@@ -35,9 +38,10 @@ I am a Full Stack Javascript Developer <img src="https://media.giphy.com/media/W
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/bobbybish81)
 
-### :hammer_and_wrench: Languages and Tools :
-
-
+<br>
+:hammer_and_wrench: Languages and Tools :
+<br>
+<br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
