@@ -15,13 +15,9 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=bobbybish81&style=flat-square&color=blue" alt=""/>
 </div>
-<div id="welcome" align="center">
-  <h3>
-    Welcome!
-        <img src="https://media4.giphy.com/media/W5Caodlgnth7AsWCaD/200w.webp?cid=ecf05e475mdqcpclu05i9x903iy8c457src09jw4280x3jvq&rid=200w.webp&ct=s" width="80px"/>
-  </h3>
-</div
-
+  <h1 align="center">
+    Welcome to my github!
+  </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="350"/>
 </div>
@@ -37,4 +33,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :soccer: When I'm not coding, I really love to watch and play sports. Football is my main sport of choice where I play as goalkeeper for a local club in Stockholm. I'm a massive Liverpool fan and tried to watch them whenever I can.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/bobbybish81)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/bobbybish81)
