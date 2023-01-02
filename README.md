@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> originally from the United Kingdom but now based in Stockholm, Sweden.
+I am a Full Stack Javascript Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> originally from the United Kingdom but now based in Stockholm, Sweden.
 
 - :computer: In December 2022 I earned a diploma having successfully completed the Fullstack Javascript Bootcamp with </Salt> (School of Applied Technology)
 
@@ -33,4 +33,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :soccer: When I'm not coding, I really love to watch and play sports. Football is my main sport of choice where I play as goalkeeper for a local club in Stockholm. I'm a massive Liverpool fan and tried to watch them whenever I can.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/bobbybish81)
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/bobbybish81)
