@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=bobbybish81&style=flat-square&color=blue" alt=""/>
 </div>
   <h1 align="center">
-    Welcome to my github!
+    Welcome to my Github!
   </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="350"/>
