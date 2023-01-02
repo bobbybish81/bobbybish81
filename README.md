@@ -16,9 +16,25 @@
   <img src="https://komarev.com/ghpvc/?username=bobbybish81&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="welcome" align="center">
-    <img src="https://media4.giphy.com/media/W5Caodlgnth7AsWCaD/200w.webp?cid=ecf05e475mdqcpclu05i9x903iy8c457src09jw4280x3jvq&rid=200w.webp&ct=s" width="150px"/>
-  <h3 margin="0">
+  <h3>
     Welcome!
+        <img src="https://media4.giphy.com/media/W5Caodlgnth7AsWCaD/200w.webp?cid=ecf05e475mdqcpclu05i9x903iy8c457src09jw4280x3jvq&rid=200w.webp&ct=s" width="80px"/>
   </h3>
+</div
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="350"/>
 </div>
 
+---
+
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> originally from the United Kingdom but now based in Stockholm, Sweden.
+
+- :computer: In December 2022 I earned a diploma having successfully completed the Fullstack Javascript Bootcamp with </Salt> (School of Applied Technology)
+
+- :bulb: Currently participating in the Post Graduate Program with Salt whilst awaiting assignment.
+
+- :soccer: When I'm not coding, I really love to watch and play sports. Football is my main sport of choice where I play as goalkeeper for a local club in Stockholm. I'm a massive Liverpool fan and tried to watch them whenever I can.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/bobbybish81)
